@@ -1,3 +1,5 @@
+//正则扩展
+
 {
     let regex = new RegExp('xyz','i')
     let regex2 = new RegExp(/xyz/i);
